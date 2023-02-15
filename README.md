@@ -1,7 +1,7 @@
 # TCERP 
 
 Projeto criado para auxiliar os alunos de Administração e Logistica em seu Desenvolvimento academico teorico e pratico,é um projeto simples que foi pensado durante
-um curso de habilitação profissional tecnica em informatica como projeto intregador no modulo de desenvolvimento
+um curso de habilitação profissional tecnico em informatica como projeto intregador no modulo de desenvolvimento.
 
 
 
@@ -178,7 +178,7 @@ Ao entra na aréa de cotação selecione a compra que deseje,selecione o fornece
 
 ## Agradecimentos 
 
-Ao senacp sp e aos docentes Wanderson,Laercio e Henrique por toda ajuda fornecida para o Desenvolvimento como profisionais na area.
+Ao senac sp e aos docentes Wanderson,Laercio e Henrique por toda ajuda fornecida para o Desenvolvimento como profisionais na area.
 
 
 
